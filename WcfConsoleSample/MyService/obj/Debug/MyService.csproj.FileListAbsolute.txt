@@ -1,0 +1,5 @@
+C:\Users\mreily\Documents\WcfService1\MyService\bin\Debug\MyService.dll.config
+C:\Users\mreily\Documents\WcfService1\MyService\bin\Debug\MyService.dll
+C:\Users\mreily\Documents\WcfService1\MyService\bin\Debug\MyService.pdb
+C:\Users\mreily\Documents\WcfService1\MyService\obj\Debug\MyService.dll
+C:\Users\mreily\Documents\WcfService1\MyService\obj\Debug\MyService.pdb

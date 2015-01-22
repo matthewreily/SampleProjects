@@ -1,0 +1,8 @@
+C:\Users\mreily\Documents\WcfService1\MyConsoleApplication\obj\Debug\MyConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\mreily\Documents\WcfService1\MyConsoleApplication\bin\Debug\MyConsoleApplication.exe.config
+C:\Users\mreily\Documents\WcfService1\MyConsoleApplication\bin\Debug\MyConsoleApplication.exe
+C:\Users\mreily\Documents\WcfService1\MyConsoleApplication\bin\Debug\MyConsoleApplication.pdb
+C:\Users\mreily\Documents\WcfService1\MyConsoleApplication\bin\Debug\MyService.dll
+C:\Users\mreily\Documents\WcfService1\MyConsoleApplication\bin\Debug\MyService.pdb
+C:\Users\mreily\Documents\WcfService1\MyConsoleApplication\obj\Debug\MyConsoleApplication.exe
+C:\Users\mreily\Documents\WcfService1\MyConsoleApplication\obj\Debug\MyConsoleApplication.pdb
